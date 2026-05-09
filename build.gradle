@@ -16,6 +16,7 @@ dependencies {
     implementation("org.seleniumhq.selenium:selenium-java:4.43.0")
     // Source: https://mvnrepository.com/artifact/commons-io/commons-io
     implementation("commons-io:commons-io:2.22.0")
+
 }
 
 test {
